@@ -4,7 +4,7 @@
 **Roll Number:** 24BCE10485  
 **Course:** Open Source Software — NGMC Capstone  
 **Chosen Software:** Git (GNU General Public License v2)  
-**Repository:** `oss-audit-[rollnumber]`
+**Repository:** `oss-audit- 24BCE10485`
 
 ---
 
